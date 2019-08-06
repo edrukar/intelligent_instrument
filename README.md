@@ -1,8 +1,8 @@
 # A Physical Intelligent Instrument using Recurrent Neural Networks
 Code and files from my master's project.
 
-The "Training" folder contains the scripts to create datasets and train generative music models used in the instrument.
-The "Instrument" folder contains the scripts that run on the Raspberry Pi, in addition to three pre-trained models.
+The "training" folder contains the scripts to create datasets and train generative music models used in the instrument.
+The "instrument" folder contains the scripts that run on the Raspberry Pi, in addition to three pre-trained models.
 
 A demo video can be found [here](http://www.nime.org/proceedings/2019/nime2019_016.pdf)
 
